@@ -2723,8 +2723,8 @@ body {
 }
 
 #header {
-  background: #fff;
-  border-bottom: solid 1px #e2eaec;
+  background: #000;
+
   height: 3.5em;
   left: 0;
   line-height: 3.5em;
