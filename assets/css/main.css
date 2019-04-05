@@ -3085,8 +3085,8 @@ body.is-touch #banner {
 #footer input[type="reset"],
 #footer input[type="button"],
 #footer .button {
-  box-shadow: inset 0 0 0 1px #d2dadc;
-  color: #626c6e !important;
+  box-shadow: inset 0 0 0 1px #CA1E11;
+  color: #CA1E11 !important;
 }
 
 #footer input[type="submit"]:hover,
